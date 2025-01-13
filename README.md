@@ -7,3 +7,12 @@ Features
 🖌️ ShadCN: For a consistent design system with pre-styled components.
 📱 Fully Responsive: Optimized for desktops, tablets, and mobile devices.
 📄 Multiple Pages: Includes home, car listings, About, and contact page.
+
+
+![Uploading pic1.png…]()
+
+![Uploading pic2.png…]()
+
+![Uploading pic3.png…]()
+
+![Uploading pic4.png…]()
