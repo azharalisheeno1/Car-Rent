@@ -9,10 +9,4 @@ Features
 📄 Multiple Pages: Includes home, car listings, About, and contact page.
 
 
-![Uploading pic1.png…]()
 
-![Uploading pic2.png…]()
-
-![Uploading pic3.png…]()
-
-![Uploading pic4.png…]()
