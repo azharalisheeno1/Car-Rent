@@ -32,19 +32,19 @@ const Header = () => {
         {/* <!-- Middle Header --> */}
         <div className="hidden md:flex justify-between  px-12 bg-white items-center">
           <div className="text-center">
-            <h1 className="text-lg font-semibold text-gray-700 mt-2">Rent Car </h1>
-            <h1 className="text-md font-semibold text-gray-700 mt-2">Service </h1>
+            <h1 className="text-lg font-semibold text-green-600 mt-2">Rent Car </h1>
+            <h1 className="text-md font-semibold text-green-600 mt-2">Service </h1>
           </div>
           <div className="text-center">
-            <h1 className="text-lg font-semibold text-gray-700 mt-2">Pakistan</h1>
-            <h1 className="text-md font-semibold text-gray-700 mt-2">Karachi DHA Phase 2</h1>
+            <h1 className="text-lg font-semibold text-green-600 mt-2">Pakistan</h1>
+            <h1 className="text-md font-semibold text-green-600 mt-2">Karachi DHA Phase 2</h1>
           </div>
           <div className="text-center">
-            <h1 className="text-lg font-semibold text-gray-700 mt-2">Monday To Saturday</h1>
-            <h1 className="text-md font-semibold text-gray-700 mt-2">10 AM to 9 PM</h1>
+            <h1 className="text-lg font-semibold text-green-600 mt-2">Monday To Saturday</h1>
+            <h1 className="text-md font-semibold text-green-600 mt-2">10 AM to 9 PM</h1>
           </div>
           <div className="text-center">
-            <button className="bg-blue-900 px-4 py-2 rounded-xl text-white font-semibold">Register Call</button>
+            <button className="bg-green-500 px-4 py-2 rounded-xl text-white font-semibold">Register Call</button>
           </div>
         </div>
 
